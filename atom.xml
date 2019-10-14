@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tobin4j.github.io</id>
+    <id>https://libg-dev.com</id>
     <title>Gridea</title>
-    <updated>2019-10-14T14:59:39.815Z</updated>
+    <updated>2019-10-14T15:12:22.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tobin4j.github.io"/>
-    <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
+    <link rel="alternate" href="https://libg-dev.com"/>
+    <link rel="self" href="https://libg-dev.com/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://tobin4j.github.io/images/avatar.png</logo>
-    <icon>https://tobin4j.github.io/favicon.ico</icon>
+    <logo>https://libg-dev.com/images/avatar.png</logo>
+    <icon>https://libg-dev.com/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://tobin4j.github.io/post/hello-gridea</id>
-        <link href="https://tobin4j.github.io/post/hello-gridea">
+        <id>https://libg-dev.com/post/hello-gridea</id>
+        <link href="https://libg-dev.com/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
