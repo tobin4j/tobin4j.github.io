@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tobin4j.github.io</id>
+    <id>http://localhost:4000</id>
     <title>林中小木屋</title>
-    <updated>2019-11-30T05:31:27.055Z</updated>
+    <updated>2019-12-03T10:00:21.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://tobin4j.github.io"/>
-    <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
     <subtitle>人这一生,除了生老病死，其他都是小事。</subtitle>
-    <logo>https://tobin4j.github.io/images/avatar.png</logo>
-    <icon>https://tobin4j.github.io/favicon.ico</icon>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
     <rights>All rights reserved 2019, 林中小木屋</rights>
     <entry>
         <title type="html"><![CDATA[两年半可以改变的事情]]></title>
-        <id>https://tobin4j.github.io/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing</id>
-        <link href="https://tobin4j.github.io/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing">
+        <id>http://localhost:4000/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing</id>
+        <link href="http://localhost:4000/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing">
         </link>
         <updated>2019-11-21T05:31:55.000Z</updated>
         <content type="html"><![CDATA[<p>1</p>
