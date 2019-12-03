@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tobin4j.github.io</id>
     <title>林中小木屋</title>
-    <updated>2019-12-03T10:19:03.224Z</updated>
+    <updated>2019-12-03T11:39:17.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tobin4j.github.io"/>
     <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://tobin4j.github.io/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing">
         </link>
         <updated>2019-11-21T05:31:55.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
+        <summary type="html"><![CDATA[<p>***，2017年05月12日14:38开，宁波—北京南，G60次列车，05车15F号，二等座，票价595.50元，检票口11B</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>***，2017年05月12日14:38开，宁波—北京南，G60次列车，05车15F号，二等座，票价595.50元，检票口11B</p>
+<!-- more -->
 ]]></content>
     </entry>
 </feed>
