@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tobin4j.github.io</id>
     <title>林中小木屋</title>
-    <updated>2019-12-25T06:56:38.134Z</updated>
+    <updated>2019-12-28T08:05:54.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tobin4j.github.io"/>
     <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
@@ -10,16 +10,4 @@
     <logo>https://tobin4j.github.io/images/avatar.png</logo>
     <icon>https://tobin4j.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 林中小木屋</rights>
-    <entry>
-        <title type="html"><![CDATA[两年半可以改变的事情]]></title>
-        <id>https://tobin4j.github.io/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing</id>
-        <link href="https://tobin4j.github.io/post/liang-nian-ban-ke-yi-gai-bian-de-shi-qing">
-        </link>
-        <updated>2019-11-21T05:31:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>***，2017年05月12日14:38开，宁波—北京南，G60次列车，05车15F号，二等座，票价595.50元，检票口11B</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>***，2017年05月12日14:38开，宁波—北京南，G60次列车，05车15F号，二等座，票价595.50元，检票口11B</p>
-<!-- more -->
-]]></content>
-    </entry>
 </feed>
