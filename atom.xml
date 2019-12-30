@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tobin4j.github.io</id>
     <title>李白光的个人博客🌠</title>
-    <updated>2019-12-30T08:31:28.455Z</updated>
+    <updated>2019-12-30T08:33:56.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tobin4j.github.io"/>
     <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
@@ -657,6 +657,8 @@ object Test6 {
 <blockquote>
 <p>命运和我开了一个极大的玩笑。</p>
 </blockquote>
+<hr>
+<p>未完待续。。。</p>
 ]]></content>
     </entry>
 </feed>
