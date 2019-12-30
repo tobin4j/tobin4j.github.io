@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tobin4j.github.io</id>
-    <title>libg的个人博客🌠</title>
-    <updated>2019-12-29T12:52:34.733Z</updated>
+    <title>李白光的个人博客🌠</title>
+    <updated>2019-12-30T02:34:06.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tobin4j.github.io"/>
     <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
     <subtitle>热爱可抵岁月漫长</subtitle>
     <logo>https://tobin4j.github.io/images/avatar.png</logo>
     <icon>https://tobin4j.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, libg的个人博客🌠</rights>
+    <rights>All rights reserved 2019, 李白光的个人博客🌠</rights>
     <entry>
         <title type="html"><![CDATA[Scala学习笔记]]></title>
         <id>https://tobin4j.github.io/post/scala-xue-xi-bi-ji</id>
@@ -529,7 +529,7 @@ object Test6 {
 <p>我对<strong>一个人摸索</strong>的定义：</p>
 <ol>
 <li>父母。父母只知道读书学习很重要，但是说不出个所以，整天就是学习是为你好，久而让你产生厌学心理。</li>
-<li>第一点绝对不是父母的错！！父母那一辈的人生活条件不好，文化程度较低，很大部分时间都在考虑如何解决温饱问题，没有做好子女教育完全可以理解！</li>
+<li>第一点绝对不是父母的错！！父母那一辈的人生活条件不好，文化程度较低，很大部分时间都在考虑如何解决温饱问题，没有做好子女教育可以理解！</li>
 <li>良师。因此，让你树立正确的读书学习观是老师应该做的事情。师者，传道授业解惑者也。但是很遗憾的是，你遇到的老师要么打卡上下班，要么只会生搬硬套几个大道理，要么是那种跟学生关系打的非常好，整天嘻嘻哈哈，但是对学生的成绩不会过多去问，这种老师倒是会很受学生喜欢。</li>
 <li>益友。和什么样的人在一起就会变成什么样的人，环境绝对是最重要的因素，一个全是学渣的班级，认真学习反而成了异类。</li>
 </ol>
@@ -557,7 +557,7 @@ object Test6 {
 <p>“定情信物。”</p>
 </blockquote>
 <p>她俏皮的说完这四个字就挂了。</p>
-<p>夏日的风不往前吹了，带着几片落叶盘旋在我脚边，知了也叫累了，整个世界就像被静音，唯有这四个字始终回响在我脑海。</p>
+<p>”呼~~。”风儿不再喧嚣，带着几片落叶盘旋在我脚边，知了也叫累了，难得的安静。</p>
 <blockquote>
 <p>青春期的女生仿佛永远也不会明白她随口说的话可以对同龄男生产生多大影响。</p>
 </blockquote>
