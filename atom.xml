@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tobin4j.github.io</id>
     <title>李白光的个人博客🌠</title>
-    <updated>2020-05-30T07:18:36.750Z</updated>
+    <updated>2020-05-30T07:20:14.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tobin4j.github.io"/>
     <link rel="self" href="https://tobin4j.github.io/atom.xml"/>
@@ -16,9 +16,9 @@
         <link href="https://tobin4j.github.io/post/scala-xue-xi-bi-ji">
         </link>
         <updated>2019-12-28T12:58:32.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src="https://tobin4j.github.io/post-images/1590823091223.jpg" alt="">主要记录学习Scala基础语法，因为我主语言是Java，笔记主要比较了和Java的异同。</p>
+        <summary type="html"><![CDATA[<p>主要记录学习Scala基础语法，因为我主语言是Java，笔记主要比较了和Java的异同。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p><img src="https://tobin4j.github.io/post-images/1590823091223.jpg" alt="">主要记录学习Scala基础语法，因为我主语言是Java，笔记主要比较了和Java的异同。</p>
+        <content type="html"><![CDATA[<p>主要记录学习Scala基础语法，因为我主语言是Java，笔记主要比较了和Java的异同。</p>
 <!-- more -->
 <blockquote>
 <p>语言特点:编译后同样是.class文件允许在Jvm的语言，和Java包无缝互调</p>
